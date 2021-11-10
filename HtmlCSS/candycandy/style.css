@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+#headercandy{
+	margin: 0 auto;
+	text-decoration-line:none;
+	color:#F8F0DF;
+}
+
+#join{
+	width: 70%;
+	border: 0;
+	border-radius:30px;
+	padding: 1em;
+	margin: auto;
+	background-color:#F8F0DF;
+}
+
+#description{
+	text-align: center;
+}
+
+table.plan{
+	width:70%;
+	margin:auto;
+	line-height:1.5;
+	background-color:#F8F0DF;
+	text-align:center;
+}
+table.plan thead{
+  border-radius:30px;
+  border-right: 1px solid #ccc;
+  border-left: 1px solid #ccc;
+  background: #9D9D9D;
+}
+table.plan tbody{
+  border-right: 1px solid #ccc;
+  border-left: 1px solid #ccc;
+  border-bottom: 1px solic #ccc;
+  background: #F8F0DF;
+}
